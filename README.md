@@ -38,6 +38,23 @@ The project is part of my journey to mastering backend engineering and learning 
 
 ---
 
+## Project Structure
+
+```text
+task-api/
+├── handlers/
+├── models/
+├── routes/
+├── storage/
+├── utils/
+├── main.go
+├── go.mod
+├── go.sum
+└── README.md
+```
+
+---
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
