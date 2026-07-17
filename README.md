@@ -172,4 +172,4 @@ This project is licensed under the MIT License.
 
 Backend Developer | Go Enthusiast | Learn2Earn NG Student
 
-GitHub: https://github.com/omalegrace2009-g
+GitHub: https://github.com/OmaleGrace
