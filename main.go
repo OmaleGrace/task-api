@@ -5,6 +5,12 @@ import (
 	"net/http"
 )
 
+type Task struct{
+	ID int
+	Title string
+	Status string
+}
+
 func handler(w http.ResponseWriter, r *http.Request) {
 	if r.Method != http.MethodGet {
 		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
