@@ -59,7 +59,7 @@ The project is part of my journey to mastering backend engineering and learning 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/omalegrace2009-g/task-api.git
+git clone https://github.com/OmaleGrace/task-api
 cd task-api
 ```
 
